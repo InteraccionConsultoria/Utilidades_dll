@@ -86,9 +86,11 @@ packages:
   flutter_utilidades:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: e198743ea9f5fcd38fe0da4f8e77dca8e884f4a9
+      url: "https://github.com/InteraccionConsultoria/Utilidades_dll.git"
+    source: git
     version: "0.0.1"
   http_parser:
     dependency: transitive
